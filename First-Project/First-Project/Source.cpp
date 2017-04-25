@@ -1,5 +1,5 @@
 #include <iostream>
-// Perry Kivolowitz and Nick Ressler
+// Nick Ressler and Perry Kivolowitz
 using namespace std;
 
 int main(){
